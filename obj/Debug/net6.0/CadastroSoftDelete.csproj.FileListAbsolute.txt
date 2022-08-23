@@ -1,0 +1,122 @@
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.csproj.AssemblyReference.cache
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.AssemblyInfo.cs
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.RazorAssemblyInfo.cache
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.RazorAssemblyInfo.cs
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\appsettings.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.staticwebassets.runtime.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.exe
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.deps.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.runtimeconfig.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.pdb
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Humanizer.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\scopedcss\bundle\CadastroSoftDelete.styles.css
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\scopedcss\projectbundle\CadastroSoftDelete.bundle.scp.css
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.csproj.CopyComplete
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\refint\CadastroSoftDelete.dll
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.pdb
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.genruntimeconfig.cache
+C:\Users\paulo\Downloads\softdelete-master\CadastroSoftDelete\obj\Debug\net6.0\ref\CadastroSoftDelete.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\appsettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.staticwebassets.runtime.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\CadastroSoftDelete.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Humanizer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.RazorAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.RazorAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\scopedcss\bundle\CadastroSoftDelete.styles.css
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\scopedcss\projectbundle\CadastroSoftDelete.bundle.scp.css
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\refint\CadastroSoftDelete.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\CadastroSoftDelete.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\projetos subir git\CadastroSoftDelete\obj\Debug\net6.0\ref\CadastroSoftDelete.dll

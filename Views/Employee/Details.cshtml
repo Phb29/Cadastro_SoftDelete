@@ -1,0 +1,23 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class=" display-6">
+<dl>
+    <dt>@Html.DisplayNameFor(nome=>nome.FirstName)</dt>
+        <dd>
+            @Model.FirstName
+        </dd>
+         <dt>@Html.DisplayNameFor(nome=>nome.LastName)</dt>
+        <dd>
+            @Model.LastName
+        </dd>
+         <dt>@Html.DisplayNameFor(nome=>nome.Age)</dt>
+        <dd>
+            @Model.Age
+        </dd>
+   
+</dl>
+</div>

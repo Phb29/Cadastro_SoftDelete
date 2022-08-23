@@ -1,0 +1,31 @@
+@model List<Employee>
+
+<h2 class="text-center">All Employees</h2>
+
+@if(Model.Count == 0){
+    <p>No employee(s) found!</p>
+}else{
+    <table class="table table-bordered table-condensed">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var e in Model)
+            {
+                <tr>
+                    <td>@e.FirstName</td>
+                    <td>@e.LastName</td>
+
+                    <td>
+                        <a asp-action="Recover" asp-route-id="@e.Id" class="btn btn-danger">Recover</a>
+                        <a asp-Controller="Employee"  asp-action="Index" class="btn btn-outline-secondary col-2">Back</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
